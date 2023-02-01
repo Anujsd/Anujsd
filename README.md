@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anujsd
+👋 Hi, I’m @Anujsd
 
 <!---
 Anujsd/Anujsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
